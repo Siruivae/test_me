@@ -36,4 +36,4 @@ class Solution:
             if str1(i) == str2(i):
                 i +=1
             return str1[:i]'''
-
+print("hello2")
